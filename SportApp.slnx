@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SportApp.UI/SportApp.UI.csproj" Id="d5e90552-651d-489e-bc24-961b5954a9b8" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>

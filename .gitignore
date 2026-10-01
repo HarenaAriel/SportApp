@@ -1,0 +1,63 @@
+.editorconfig
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Visual Studio publish folder
+publish/
+out/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono
+*.pidb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dotnet
+project.assets.json
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# IIS Express
+IISExpress/*
+
+# Database files
+*.mdf
+*.ldf
+
+# Rider caches
+/.idea/
+
+# Avoid ignoring source files and project files — keep everything needed to build the app
+# (csproj, slnx, solution files, source code, config files) - the above entries only exclude generated/artifact files.
